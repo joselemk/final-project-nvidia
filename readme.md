@@ -3,7 +3,7 @@
 
 ![add image descrition here](direct image link here)
 
-##How The Bird Bouncer works:
+## How The Bird Bouncer works:
 
 Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
 
