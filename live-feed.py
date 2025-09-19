@@ -3,7 +3,7 @@ import cv2
 from roboflow import Roboflow
 import supervision as sv
 
-rf = Roboflow(api_key="BIDvzWz5gxa53TmtCVJe")
+rf = Roboflow(api_key="YOUR_API_KEY_HERE")
 project = rf.workspace().project("chicken-counting-cfwaq")
 model = project.version(1).model
 
