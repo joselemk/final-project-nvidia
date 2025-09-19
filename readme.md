@@ -17,5 +17,5 @@ roboflow
 supervision
 3. Run the provided python code (make sure to put your own roboflow API key in the respetive variable)
 
-![Demo](./Images/Image1.jpg)
+![Demo](./Images/output.gif)
 
