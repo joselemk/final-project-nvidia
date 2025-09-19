@@ -1,7 +1,7 @@
 # Bird Bouncer
  This handy machine makes it so chickens do not make your nice cement pad turn into the poop deck. The innovative machine tracks chickens, and detects if they go on your precious cement pad, and if they do, the 'Bird Bouncer' will soak them, making them regret their decision to ever go on the cement pad. 
 
-![add image descrition here](direct image link here)
+![Picture of the turret](./Images/Image1.png)
 
 ## How The Bird Bouncer works:
 
