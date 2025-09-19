@@ -10,10 +10,11 @@ Add an explanation of the algorithm and how it works. Make sure to include detai
 ## Running this project
 
 1. Install python 3.9, on the jetson nano you have to compile it yourself
-2. install the foll0wing librarys:
+2. install the following librarys:
 flask
 cv2
 roboflow
 supervision
-3. Run the provided python code
+3. Run the provided python code (make sure to put your own roboflow API key in the respetive variable)
+
 [View a video explanation here](video link)
