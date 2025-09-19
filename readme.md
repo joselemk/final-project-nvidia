@@ -17,4 +17,4 @@ roboflow
 supervision
 3. Run the provided python code (make sure to put your own roboflow API key in the respetive variable)
 
-[View a video explanation here](video link)
+[video demo](./Images/annotated_output1.mp4)
