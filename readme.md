@@ -4,8 +4,7 @@
 ![Picture of the turret](./Images/Image1.jpg)
 
 ## How The Bird Bouncer works:
-
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+So my code works by first, seeing is there is a chicken detected, and if there is, it will get the middle of the detected box, does some math to convert that to angles for the servo, and tells the arduino the angles, and wether to turn the gun on
 
 ## Running this project
 
