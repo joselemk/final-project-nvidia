@@ -17,4 +17,6 @@ roboflow
 supervision
 3. Run the provided python code (make sure to put your own roboflow API key in the respetive variable)
 
-[video demo](./Images/annotated_output1.mp4)
+<video src="./Images/annotated_output1.mp4" controls width="600">
+  Your browser does not support the video tag.
+</video>
