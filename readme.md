@@ -9,7 +9,11 @@ Add an explanation of the algorithm and how it works. Make sure to include detai
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+1. Install python 3.9, on the jetson nano you have to compile it yourself
+2. install the follwing librarys:
+flask
+cv2
+roboflow
+supervision
 
 [View a video explanation here](video link)
